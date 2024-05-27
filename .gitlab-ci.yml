@@ -1,0 +1,36 @@
+
+stages:
+  - deploy_backend
+  - deploy_frontend
+
+variables:
+  FF_POSIXLY_CORRECT_ESCAPES: "true"
+
+
+deploy_backend:
+  stage: deploy_backend
+  tags:
+    - linux
+  script:
+    - cd backend
+    - docker stop $(docker ps -a -q)
+    - docker-compose up -d --build
+  only:
+    - main
+
+deploy_frontend:
+  stage: deploy_frontend
+  tags:
+    - linux
+  image: node:latest
+  script:
+    - cd frontend/convoy
+    - nvm use --lts
+    # Install dependencies
+    - npm install
+    # Build the Next.js app
+    - npm run build
+    - pm2 delete app1 || true
+    - pm2 start npm --name app1 -- run start -- -p 3000
+  only:
+    - main

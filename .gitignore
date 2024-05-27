@@ -1,0 +1,54 @@
+env
+backend/data
+# macOS system files
+.DS_Store
+
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Environment-specific files
+*.env
+
+# Log files
+*.log
+
+# Dependency folders
+env/
+lib/
+libs/
+bin/
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Ignore local database files
+*.db
+
+# Ignore user-specific files
+*.sublime-workspace
+*.sublime-project
+
+# Ignore local configuration files
+*.swp
+*.swo
+*~
