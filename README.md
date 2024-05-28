@@ -12,8 +12,6 @@ A detailed report discussing:
 - Architecture
 - Testing (unit, interface, integration, system, regression, acceptance)
 
-is publicly available at: https://sdmay24-19.sd.ece.iastate.edu/DesignDocuments/CPRE_492_Final_Report.pdf
-
-The document also contains an Operation Manual.
+is publicly available at: https://sdmay24-19.sd.ece.iastate.edu/DesignDocuments/CPRE_492_Final_Report.pdf. The document also contains an Operation Manual.
 
 > Presently, we only provide a small sample of the dataset used. Since the data was obtained from our collaborators working on Molecular Dynamics Simulation from other Universities - please send us a formal request via email (mhanowar@iastate.edu) and we will promptly respond and provide it.
