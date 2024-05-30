@@ -16,9 +16,7 @@ A detailed report discussing:
 
 is publicly available at: https://sdmay24-19.sd.ece.iastate.edu/DesignDocuments/CPRE_492_Final_Report.pdf. The document also contains an Operation Manual.
 
-We provide instructions for how to use the app in this [video](Demo.mp4).
-
-An extended version for the demonstration video can be found [here](https://iowastate-my.sharepoint.com/:v:/g/personal/mhanowar_iastate_edu/EWPRfOWgxJBLktCQojAjmZgBF46prBUjvEeFvQKjnRWSYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HGAY4r).
+We provide instructions for how to use the app in this [video](Demo.mp4). An extended version for the demonstration video can be found [here](https://iowastate-my.sharepoint.com/:v:/g/personal/mhanowar_iastate_edu/EWPRfOWgxJBLktCQojAjmZgBF46prBUjvEeFvQKjnRWSYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HGAY4r).
 
 ## Datasets
 
