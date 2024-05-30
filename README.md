@@ -2,7 +2,7 @@ This repository provides the source code for the implementation of a prototype s
 
 **Detecting and Visualizing Bond-Forming Convoys in Atomic and Molecular Trajectories (Demo Paper)**(NOTE: Submitted to ACM SIGSPATIAL 2024).
 
-The implementation is a result of a two-semester long Senior Design project of a team of seniors at Iowa State University (Software Engineering and Computer Engineering majors).
+The implementation is a result of a two-semester long Senior Design project of a team of seniors at Iowa State University (Software Engineering and Computer Engineering Majors).
 
 A detailed report discussing:
 
