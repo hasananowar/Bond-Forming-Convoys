@@ -1,6 +1,6 @@
 # Detecting and Visualizing Bond-Forming Convoys in Atomic and Molecular Trajectories
 
-This repository provides the source code for the implementation of a prototype system described in: **Detecting and Visualizing Bond-Forming Convoys in Atomic and Molecular Trajectories (Demo Paper)**(NOTE: Published at ACM SIGSPATIAL 2024 [paper] (https://dl.acm.org/doi/abs/10.1145/3678717.3691264)).
+This repository provides the source code for the implementation of a prototype system described in: **Detecting and Visualizing Bond-Forming Convoys in Atomic and Molecular Trajectories (Demo Paper)**(NOTE: Published at ACM SIGSPATIAL 2024 [paper](https://dl.acm.org/doi/abs/10.1145/3678717.3691264)).
 
 The implementation is a result of a two-semester long Senior Design project of a team of seniors at Iowa State University (Software Engineering and Computer Engineering Majors).
 
